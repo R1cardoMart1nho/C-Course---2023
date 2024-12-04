@@ -1,0 +1,11 @@
+# ninja log v5
+16	1564	7263564478009439	CMakeFiles/Cpp_Projeto_Escola.dir/main.cpp.obj	47361d7dce956492
+73	1245	7262625840141407	CMakeFiles/Cpp_Projeto_Escola.dir/src/Treinador.cpp.obj	4e44aa7682ced0d0
+11	1002	7263555893644407	CMakeFiles/Cpp_Projeto_Escola.dir/src/Aluno.cpp.obj	3da7746b61f7f001
+25	1871	7263559520485947	CMakeFiles/Cpp_Projeto_Escola.dir/src/Equipa.cpp.obj	9bf14c5fbce05c8f
+562	941	7262755194245275	Cpp_Projeto_Escola.exe	506e66e04c851049
+8	2499	7263564488092726	CMakeFiles/Cpp_Projeto_Escola.dir/src/Escola.cpp.obj	51d5e5bedc6756ab
+28	1240	7262625840111435	CMakeFiles/Cpp_Projeto_Escola.dir/src/Escalao.cpp.obj	ab49b5c64b46077a
+44	817	7263555891964341	CMakeFiles/Cpp_Projeto_Escola.dir/src/AlunoExtra.cpp.obj	9b8c760ce11827fd
+9	1061	7263564630248930	CMakeFiles/Cpp_Projeto_Escola.dir/src/Equipa.cpp.obj	9bf14c5fbce05c8f
+1061	1312	7263564632726646	Cpp_Projeto_Escola.exe	506e66e04c851049

@@ -1,0 +1,3 @@
+C:/Users/jlr-m/CLion_Projects/Cpp_Projeto_Escola/cmake-build-debug/CMakeFiles/Cpp_Projeto_Escola.dir
+C:/Users/jlr-m/CLion_Projects/Cpp_Projeto_Escola/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jlr-m/CLion_Projects/Cpp_Projeto_Escola/cmake-build-debug/CMakeFiles/rebuild_cache.dir
